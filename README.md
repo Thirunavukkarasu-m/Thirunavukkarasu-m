@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Thirunavukkarasu M</h1>
 
 <p align="center">
-💻 Computer Science Engineering Student | Frontend Developer | React.js Enthusiast
+  Frontend Developer | React.js Enthusiast
 </p>
 
 <p align="center">
