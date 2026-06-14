@@ -82,9 +82,9 @@ To secure a challenging position in a growth-oriented organization where I can a
 
 ## 📫 Connect With Me
 
-- 📧 Email: thirunod916@gmail.com  
+- 📧 Email: thirudev946@gmail.com  
 - 📍 Location: Velachery, Chennai  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 💼 LinkedIn: https://www.linkedin.com/in/thirunavukkarasu12
 
 ---
 
