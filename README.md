@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-📍 Velachery, Chennai | 📧 thirunod916@gmail.com | 📱 +91 9790097802
+📍 Velachery, Chennai | 📧 thirudev946@gmail.com | 📱 +91 9790097802
 </p>
 
 ---
