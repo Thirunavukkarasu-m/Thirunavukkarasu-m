@@ -1,68 +1,91 @@
-<h1 align="center">👋 Hi, I'm Thirunavukkarasu M</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Software Developer | Frontend Developer | Python Developer</strong>
-</p>
+# Hi, I'm Thirunavukkarasu M 👋
 
-<p align="center">
-  📍 Velachery, Chennai &nbsp; | &nbsp;
-  📧 thirumsd946@gmail.com &nbsp; | &nbsp;
-  📱 +91 9790097802
-</p>
+### Software Developer • Frontend Developer • Python Developer
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/thirunavukkarasu12">LinkedIn</a> •
-  <a href="https://github.com/Thirunavukkarasu-m">GitHub</a>
-</p>
+Building practical web applications and software solutions with a focus on
+clean UI, problem-solving, and real-world applications.
+
+<br>
+
+<a href="https://github.com/Thirunavukkarasu-m">
+  <img src="https://img.shields.io/badge/GitHub-Thirunavukkarasu--m-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/thirunavukkarasu12">
+  <img src="https://img.shields.io/badge/LinkedIn-Thirunavukkarasu12-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:thirumsd946@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Computer Science Engineering graduate with hands-on experience in **web development, Python programming, and building practical software applications**.
+I'm a **Computer Science Engineering graduate** interested in building
+practical and user-focused software applications.
 
-Skilled in **HTML, CSS, Bootstrap, JavaScript, ReactJS, Python, SQL, and MySQL**, with experience developing responsive web applications and automation-based projects.
+My core development experience includes **Python, JavaScript, HTML, CSS,
+Bootstrap, ReactJS, SQL, and MySQL**.
 
-Strong foundation in **problem-solving, software development, and database fundamentals**, with a focus on building practical and user-focused solutions.
+I enjoy turning ideas into working applications, solving programming
+problems, and continuously improving my development skills.
 
 ---
 
-## 🛠️ Technical Skills
+## ⚡ What I Work With
 
-### 💻 Programming Languages
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-</p>
+### Frontend Development
 
-### 🌐 Web Technologies
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- ReactJS
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
-</p>
+</td>
 
-### ⚛️ Frontend
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" />
-</p>
+### Programming & Database
 
-### 🗄️ Database
+- Python
+- SQL
+- MySQL
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-</p>
+</td>
+</tr>
 
-**SQL**
+<tr>
+<td width="50%" valign="top">
 
-### 🔧 Tools
+### Development Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code" />
-</p>
+- Git
+- GitHub
+- VS Code
+
+</td>
+
+<td width="50%" valign="top">
+
+### Strengths
+
+- Problem Solving
+- Team Collaboration
+- Quick Learning
+- Practical Development
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -70,115 +93,98 @@ Strong foundation in **problem-solving, software development, and database funda
 
 ### 📚 Automated Examination Scheduler
 
-A **Flask-based academic examination management system** designed to automate examination scheduling, hall allocation, staff assignment, and student seating arrangements using Excel data.
+> An academic examination management system designed to automate
+> examination scheduling and resource allocation.
 
-#### Key Features
+**What it does**
 
-- 📅 Automated examination timetable generation
-- 🏫 Hall allocation
-- 👨‍🏫 Staff assignment
-- 🪑 Student seating arrangement
-- 📊 Processing of student, subject, staff, and room details
-- 📄 Downloadable PDF report generation
+- Generates examination timetables
+- Handles hall allocation
+- Assigns examination staff
+- Generates student seating arrangements
+- Processes student, subject, staff, and room data
+- Generates downloadable reports
 
-#### Tech Stack
+**Built with**
 
-**Python • Flask • Pandas • Excel • ReportLab**
+`Python` `Flask` `Pandas` `Excel` `ReportLab`
 
-🔗 **[View Project](https://github.com/Thirunavukkarasu-m/college-exam-management-system)**
+**Repository:**  
+👉 [Automated Examination Scheduler](https://github.com/Thirunavukkarasu-m/college-exam-management-system)
 
 ---
 
 ### 🚗 Parking Slot Booking Finder
 
-A responsive **Parking Slot Booking Finder** web application that helps users search and explore available parking locations through an interactive interface.
+> A responsive web application designed to help users find and interact
+> with available parking locations.
 
-#### Key Features
+**Key Features**
 
 - 🔍 Parking search
-- 🎯 Filtering functionality
-- ↕️ Sorting functionality
+- 🎯 Filtering
+- ↕️ Sorting
 - 🅿️ Parking booking
 - ❤️ Favourite parking
 - 📊 Dynamic slot availability
-- 🔢 Live slot-count functionality
-- 💾 localStorage for maintaining user preferences
-- 📱 Responsive user interface
+- 🔢 Live slot count
+- 💾 localStorage support
+- 📱 Responsive interface
 
-#### Tech Stack
+**Built with**
 
-**HTML • CSS • Bootstrap • JavaScript**
+`HTML` `CSS` `Bootstrap` `JavaScript`
 
-🔗 **[View Project](https://github.com/Thirunavukkarasu-m/car-slot-finder)**
+**Repository:**  
+👉 [Parking Slot Booking Finder](https://github.com/Thirunavukkarasu-m/car-slot-finder)
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,bootstrap,react,mysql,git,github,vscode" />
+
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Thirunavukkarasu-m&show_icons=true&theme=tokyonight&hide_border=true"
+  height="170"
+/>
+
+<img
+  src="https://streak-stats.demolab.com?user=Thirunavukkarasu-m&theme=tokyonight&hide_border=true"
+  height="170"
+/>
+
+</div>
 
 ---
 
 ## 🎓 Education
 
-### Bachelor of Engineering — Computer Science and Engineering
-
-**St. Peter's College of Engineering and Technology**  
-2022 – 2026
-
-### Higher Secondary Certificate — HSC
-
-**Government Higher Secondary School, Kunnagampoondi**  
-2020 – 2022
+**B.E. — Computer Science and Engineering**  
+St. Peter's College of Engineering and Technology  
+`2022 – 2026`
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Current Focus
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Thirunavukkarasu-m&show_icons=true&theme=tokyonight"
-    alt="Thirunavukkarasu M GitHub Stats"
-  />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Thirunavukkarasu-m&theme=dark"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-## 🤝 Soft Skills
-
-- Problem Solving
-- Team Collaboration
-
----
-
-## 📫 Connect With Me
-
-<p>
-  📧 <strong>Email:</strong>
-  <a href="mailto:thirumsd946@gmail.com">thirumsd946@gmail.com</a>
-</p>
-
-<p>
-  💼 <strong>LinkedIn:</strong>
-  <a href="https://www.linkedin.com/in/thirunavukkarasu12">
-    linkedin.com/in/Thirunavukkarasu12
-  </a>
-</p>
-
-<p>
-  🐙 <strong>GitHub:</strong>
-  <a href="https://github.com/Thirunavukkarasu-m">
-    github.com/Thirunavukkarasu-m
-  </a>
-</p>
-
----
-
-<p align="center">
-  💡 <strong>Building practical and user-focused solutions with code.</strong>
-</p>
+```text
+Frontend Development
+        ↓
+Python Development
+        ↓
+Database & SQL
+        ↓
+Building Real-World Applications
+        ↓
+Continuous Learning
