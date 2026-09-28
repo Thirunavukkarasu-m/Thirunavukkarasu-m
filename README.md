@@ -1,91 +1,54 @@
-<div align="center">
-
 # Hi, I'm Thirunavukkarasu M 👋
 
-### Software Developer • Frontend Developer • Python Developer
+### Python Full Stack Developer
 
-Building practical web applications and software solutions with a focus on
-clean UI, problem-solving, and real-world applications.
-
-<br>
-
-<a href="https://github.com/Thirunavukkarasu-m">
-  <img src="https://img.shields.io/badge/GitHub-Thirunavukkarasu--m-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.linkedin.com/in/thirunavukkarasu12">
-  <img src="https://img.shields.io/badge/LinkedIn-Thirunavukkarasu12-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:thirumsd946@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
+I'm a Python Full Stack Developer focused on building responsive web applications,
+CRUD systems, REST API integrations, and database-driven applications using Python
+and modern web technologies.
 
 ---
 
-## 👨‍💻 About Me
+## 🛠️ Technical Skills
 
-I'm a **Computer Science Engineering graduate** interested in building
-practical and user-focused software applications.
-
-My core development experience includes **Python, JavaScript, HTML, CSS,
-Bootstrap, ReactJS, SQL, and MySQL**.
-
-I enjoy turning ideas into working applications, solving programming
-problems, and continuously improving my development skills.
-
----
-
-## ⚡ What I Work With
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Frontend Development
-
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
-- ReactJS
-
-</td>
-
-<td width="50%" valign="top">
-
-### Programming & Database
-
+### Languages
 - Python
+- JavaScript
 - SQL
+
+### Frontend
+- HTML5
+- CSS3
+- Bootstrap
+- React.js
+- Responsive Web Design
+
+### Backend
+- Django
+- Django REST Framework
+- Flask
+- REST APIs
+- CRUD
+- API Integration
+
+### Databases
+- PostgreSQL
 - MySQL
+- SQL
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Development Tools
-
+### Tools
 - Git
 - GitHub
+- Postman
 - VS Code
+- API Testing
 
-</td>
-
-<td width="50%" valign="top">
-
-### Strengths
-
-- Problem Solving
-- Team Collaboration
-- Quick Learning
-- Practical Development
-
-</td>
-</tr>
-</table>
+### Core Concepts
+- Object-Oriented Programming
+- MVC / MVT Architecture
+- Authentication
+- Validation
+- Debugging
+- Version Control
 
 ---
 
@@ -93,98 +56,120 @@ problems, and continuously improving my development skills.
 
 ### 📚 Automated Examination Scheduler
 
-> An academic examination management system designed to automate
-> examination scheduling and resource allocation.
-
-**What it does**
-
-- Generates examination timetables
-- Handles hall allocation
-- Assigns examination staff
-- Generates student seating arrangements
-- Processes student, subject, staff, and room data
-- Generates downloadable reports
-
-**Built with**
-
-`Python` `Flask` `Pandas` `Excel` `ReportLab`
-
-**Repository:**  
-👉 [Automated Examination Scheduler](https://github.com/Thirunavukkarasu-m/college-exam-management-system)
-
----
-
-### 🚗 Parking Slot Booking Finder
-
-> A responsive web application designed to help users find and interact
-> with available parking locations.
+A Flask-based examination management system that automates exam scheduling,
+hall allocation, faculty invigilation assignment, and student seating arrangements.
 
 **Key Features**
+- Exam scheduling
+- Hall allocation
+- Faculty invigilation assignment
+- Student seating arrangement
+- Excel data processing
+- PDF report generation
+- Responsive web interface
 
-- 🔍 Parking search
-- 🎯 Filtering
-- ↕️ Sorting
-- 🅿️ Parking booking
-- ❤️ Favourite parking
-- 📊 Dynamic slot availability
-- 🔢 Live slot count
-- 💾 localStorage support
-- 📱 Responsive interface
+**Tech Stack**
 
-**Built with**
+`Python` `Flask` `Pandas` `OpenPyXL` `Excel` `ReportLab`
+`HTML5` `CSS3` `Bootstrap 5`
 
-`HTML` `CSS` `Bootstrap` `JavaScript`
-
-**Repository:**  
-👉 [Parking Slot Booking Finder](https://github.com/Thirunavukkarasu-m/car-slot-finder)
+🔗 [GitHub](https://github.com/Thirunavukkarasu-m/college-exam-management-system)
+| [Live Demo](https://exam-scheduler-weld.vercel.app/)
 
 ---
 
-## 🧰 Tech Stack
+### 👨‍💼 Employee Management System
 
-<p align="center">
+A responsive React-based Employee Management System with complete CRUD
+functionality and client-side data persistence.
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,bootstrap,react,mysql,git,github,vscode" />
+**Key Features**
+- Add employee records
+- View employee records
+- Edit employee records
+- Delete employee records
+- Search
+- Filtering
+- Sorting
+- Pagination
+- Dashboard statistics
+- LocalStorage persistence
+- Responsive UI
 
-</p>
+**Tech Stack**
+
+`React.js` `JavaScript` `Bootstrap` `HTML5` `CSS3` `LocalStorage`
+
+🔗 [GitHub](https://github.com/Thirunavukkarasu-m/employee-management-system)
+| [Live Demo](https://employee-management-system-curd.netlify.app/)
 
 ---
 
-## 📈 GitHub Activity
+### 🎬 CineBook Movie Ticket Booking Platform
 
-<div align="center">
+A full-stack Django MVT movie ticket booking platform with movie browsing,
+show selection, authentication, dynamic seat selection, booking, and
+profile features.
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Thirunavukkarasu-m&show_icons=true&theme=tokyonight&hide_border=true"
-  height="170"
-/>
+**Key Features**
+- Movie browsing
+- Show selection
+- User authentication
+- Dynamic seat selection
+- PostgreSQL-backed booking
+- Server-side seat validation
+- Double-booking protection
+- Booking cancellation
+- Simulated payments
+- E-ticket confirmation
+- Django admin
+- Seed data
+- Automated tests
+- Responsive interface
 
-<img
-  src="https://streak-stats.demolab.com?user=Thirunavukkarasu-m&theme=tokyonight&hide_border=true"
-  height="170"
-/>
+**Tech Stack**
 
-</div>
+`Python` `Django` `PostgreSQL` `HTML5` `CSS3`
+`JavaScript` `Django Templates`
+
+🔗 [GitHub](https://github.com/Thirunavukkarasu-m/Cine_book)
+| [Live Demo](https://cine-book-4c52.onrender.com/)
+
+---
+
+## 📜 Certification
+
+### Full Stack Python
+
+**Code99 IT Academy**
+
+4 Months | Issued: 11 September 2026
+
+📜 [View Certificate](https://drive.google.com/file/d/1wvGFo-ggHCadKTV-I9OvHBxCrjemwkG-/view?usp=sharing)
 
 ---
 
 ## 🎓 Education
 
-**B.E. — Computer Science and Engineering**  
+**Bachelor of Engineering (B.E.)**
+Computer Science and Engineering
+
 St. Peter's College of Engineering and Technology  
-`2022 – 2026`
+Avadi, Chennai
+
+**2022 – 2026 | CGPA: 7.2 / 10**
 
 ---
 
-## 🎯 Current Focus
+## 📫 Connect With Me
 
-```text
-Frontend Development
-        ↓
-Python Development
-        ↓
-Database & SQL
-        ↓
-Building Real-World Applications
-        ↓
-Continuous Learning
+- 💼 LinkedIn
+- 💻 GitHub
+- 🌐 Portfolio
+
+I'm interested in Python Full Stack Developer opportunities
+and building practical web applications.
+
+---
+
+⭐ Thanks for visiting my profile!
