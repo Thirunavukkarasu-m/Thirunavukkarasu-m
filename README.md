@@ -220,7 +220,7 @@ Avadi, Chennai • `2022 – 2026`
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://thirunavukkarasu-m.github.io/My-Portfolio/">
+<a href="https://thirunavukkarsu-m.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-0563C1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
